@@ -86,9 +86,9 @@ The project includes charts such as:
 ---
 
 ## 📂 Project Files
-- `TCA.ipynb` — Full analysis notebook  
-- `Teco Customer Churn Analysys.pdf` — Summary documentation  
-- `README.md` — Project overview  
+- [**Full analysis notebook**](https://github.com/abhishekkumar1612/Customers-Churn-Analysis/blob/main/Full%20analysis%20notebook/TCA.ipynb)
+- [**Summary documentation**](https://github.com/abhishekkumar1612/Customers-Churn-Analysis/blob/main/Summary%20documentation/Telco%20Customer%20Churn%20Analysys.pdf) 
+
 
 ---
 
