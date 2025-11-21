@@ -97,10 +97,12 @@ This project highlights critical factors that drive customer churn and provides 
 
 ---
 
-If you'd like, I can also:
-✔ Add badges (Python, Pandas, Jupyter, etc.)  
-✔ Create a **short résumé-friendly project summary**  
-✔ Write a **LinkedIn post** to share this project  
-✔ Add a **project workflow diagram**  
+🧾 Author
 
-Just tell me! 🚀
+**Abhishek Kumar**
+
+💼 Data Analyst | Python & Excel Enthusiast
+
+📧 akabhikumar91@gmail.com
+
+🌐 [LinkedIn](www.linkedin.com/in/abhishek-kumar-692082172)
